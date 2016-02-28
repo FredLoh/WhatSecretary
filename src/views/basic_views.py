@@ -1,0 +1,1 @@
+from yowsup.layers.protocol_messages.protocolentities import TextMessageProtocolEntity

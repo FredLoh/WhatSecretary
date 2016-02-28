@@ -1,0 +1,4 @@
+pytube
+requests==2.7.0
+yowsup2==2.4.48
+google-api-python-client
